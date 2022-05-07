@@ -1,12 +1,5 @@
-import React from 'react'
+import { Widget } from "./components/Widget";
 
-function App() {
-
-  return (
-    <div>
-
-    </div>
-  )
+export function App(){
+  return <Widget />
 }
-
-export default App
