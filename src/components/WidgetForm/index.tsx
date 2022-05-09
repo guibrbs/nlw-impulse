@@ -48,7 +48,7 @@ export function WidgetForm(){
                 />
             )}
 
-            <footer>
+            <footer className='text-xs text-neutral-400'>
                 Feito com 🤍 pelo <a className="underline underline-offset-2" href="https://guibrbs.github.io/Portfolio" target={"_blank"}> Guilherme</a>
             </footer>
         </div>
